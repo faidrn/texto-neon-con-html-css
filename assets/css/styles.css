@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+    /*font-family: 'Arial', sans-serif;*/
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+.neon-text{
+    font-size: 72px;
+    color: #fff;
+    text-shadow: 0 0 5px #00ffe4, 
+            0 0 10px #00ffe4,
+            0 0 20px #00ffe4,
+            0 0 40px #00ffe4,
+            0 0 80px #00ffe4,
+            0 0 90px #00ffe4,
+            0 0 100px #00ffe4,
+            0 0 150px #00ffe4;
+}
