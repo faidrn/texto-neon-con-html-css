@@ -1,6 +1,6 @@
 # Neon text with HTML and CSS
 
-![](https://github.com/faidrn/texto-neon-con-html-css/blob/main/assets/images/ScreenShotDigitalClock.png)
+![](https://github.com/faidrn/texto-neon-con-html-css/blob/main/assets/images/ScreenShot.png)
 
 
 Neon text with HTML and CSS.
@@ -15,13 +15,13 @@ This HTML defines a basic structure containing a title with a neon text effect.
 </div>
 ```
 
-* **<div>**: We define a block element in HTML that acts as a container. It is commonly used to group other elements and apply styles to them together.
+* `<div>`: We define a block element in HTML that acts as a container. It is commonly used to group other elements and apply styles to them together.
 
-* **class="container"**: We add the container class to the div. In HTML, classes are used to apply specific CSS styles to elements.
+* `class="container"`: We add the container class to the div. In HTML, classes are used to apply specific CSS styles to elements.
 
-* **<h1>**: We define a level 1 heading, which is generally used for main titles.
+* `<h1>`: We define a level 1 heading, which is generally used for main titles.
 
-* **class="neon-text"**: We add the neon-text class to the **<h1>** element. This class will be used to apply specific CSS styles that create the neon text effect.
+* `class="neon-text"`: We add the neon-text class to the `<h1>` element. This class will be used to apply specific CSS styles that create the neon text effect.
 
 ## CSS Styles - Neon Effect
 
